@@ -46,9 +46,6 @@ Yearly Total → 300
 - Create GUI using Tkinter
 - Add charts and reports
 
-## Author
-Ishan Singh
-
 ## One-Line Description
 A simple Python program to track and calculate monthly and yearly expenses.
 
