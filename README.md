@@ -5,35 +5,50 @@ This project is a simple Python-based expense tracker that allows users to add e
 ## Description
 This is a simple command-line Expense Tracker built using Python. It allows users to add expenses and calculate monthly and yearly totals using basic programming concepts.
 
-## Features
-- Add expense (month, name, amount)
-- Calculate monthly expenses
-- Calculate yearly (grand total) expenses
-- Simple menu-driven interface
+## What This Project Does
+- Stores expenses (month, name, amount)
+- Calculates monthly total expenses
+- Calculates yearly total expenses
+- Provides a simple menu-driven interface
 
 ## Technologies Used
-- Python (Core Concepts)
+- Python (Core concepts)
 
-## How to Run
-1. Download or clone the repository
-2. Open terminal or command prompt
-3. Run the file:
+## How to Setup and Run
+1. Install Python on your system
+2. Download or clone this project
+3. Open terminal or command prompt
+4. Navigate to the project folder
+5. Run the program:
    python expense_tracker.py
 
-## Example Usage
-1. Add Expense → Jan, Food, 200
-2. Add Expense → Jan, Travel, 100
-3. Monthly Total (Jan) → 300
-4. Yearly Total → 300
+## How to Use
+1. Run the program
+2. Choose an option from the menu:
+
+1. Add Expense → Enter month, name, and amount
+2. Monthly Total → Enter month to get total
+3. Yearly Total → Shows total of all expenses
+4. Exit → Close the program
+
+## Example
+Add → Jan, Food, 200
+Add → Jan, Travel, 100
+Monthly Total (Jan) → 300
+Yearly Total → 300
 
 ## Limitations
 - Data is not saved permanently
-- No graphical user interface
+- No graphical interface
 
 ## Future Improvements
-- Add file handling for data storage
+- Add file storage
 - Create GUI using Tkinter
-- Add graphs and reports
+- Add charts and reports
+
+## Author
+Ishan Singh
 
 ## One-Line Description
 A simple Python program to track and calculate monthly and yearly expenses.
+
